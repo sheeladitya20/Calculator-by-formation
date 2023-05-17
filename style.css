@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  /* .container{
+    border: 3px solid black;
+    display: flex;
+    position: relative;
+    top: -200px;
+    margin: -212px;
+  } */
+  .button{
+      padding: 20px;
+      width: 70px;
+      margin: 0px 1px;
+      border: 3px solid orange;
+      border-radius: 14px;
+      cursor: pointer;
+  }
+  .rows{
+    margin: 8px 0;
+  }
+  .rows input{
+    width: 291px;
+    font-size: 12px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 9px;
+  }
